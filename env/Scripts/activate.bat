@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\SHADIA\Desktop\Flask\env
+=======
+set VIRTUAL_ENV=C:\Users\SHADIA\Desktop\Webscrapping\env
+>>>>>>> 8801103 (paul_day16)
 
 if not defined PROMPT set PROMPT=$P$G
 
